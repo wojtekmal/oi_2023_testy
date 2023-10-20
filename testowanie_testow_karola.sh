@@ -1,4 +1,5 @@
-for i in {1..2000}
+#!/bin/bash
+for i in {1..4000}
 do
     ../cza.exe < ./IN/$i.in > ./moj_wynik_w_tescie_karola.out
     diff -bw ./OUT/$i.out ./moj_wynik_w_tescie_karola.out
