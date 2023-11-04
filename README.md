@@ -1,4 +1,12 @@
 # oi_2023_testy
+Budowa Lotniska\
+1-1000 - pierwsze podzadanie\
+1001-2000 - drugie podzadanie\
+2001-3000 - trzecie podzadanie\
+3001-4000 - czwarte podzadanie\
+i-1000i - i-te podzadanie z urojonymi testami, właściwie to tej grupy testów nie ma\
+\
+CzatBBB\
 1-1000 - pierwsze podzadanie\
 1001-2000 - drugie podzadanie\
 2001-3000 - trzecie podzadanie\
